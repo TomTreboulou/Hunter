@@ -1,5 +1,5 @@
 # Hunter
-It's the first graphical project of my first year at Epitech.
+It's my first graphical project of my first year at Epitech.
 
 Run ./my_hunter -h for the rules.
 
