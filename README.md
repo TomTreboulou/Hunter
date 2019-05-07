@@ -8,3 +8,5 @@ If you haven't got the CSFML library you can download it here : https://www.sfml
 If you don't want to download it there is a demonstrate video called "Demonstration.mp4".
 
 ![Alt text](hunter.png?raw=true "Title")
+
+![Alt text](hunter2.png?raw=true "Title")
